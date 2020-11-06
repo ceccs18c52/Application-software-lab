@@ -1,4 +1,4 @@
-##Lab 1
+## Lab 1
 >a.Create a table student with attributes sno,name marks and dept
 >b.Add a new attribute age
 >c.Change the datatype size of dept
