@@ -1,10 +1,10 @@
 # Application-software-lab
 
 > ## Lab 1
-> *a * Create a table student with attributes sno,name marks and dept
-> *b * Add a new attribute age
->*c * Change the datatype size of dept
->*d * Delete the attribute marks from the table
->*e * Change the name of the student table to students
->*f * Delete all values from the table
->*g * Delete the entire table
+> * Create a table student with attributes sno,name marks and dept
+> * Add a new attribute age
+> * Change the datatype size of dept
+> * Delete the attribute marks from the table
+> * Change the name of the student table to students
+> * Delete all values from the table
+> * Delete the entire table
