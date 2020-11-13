@@ -1,4 +1,4 @@
-# [Application software lab](#application-software-lab)
+# [Application Software lab](./README.md)
 
 > ## Lab 1
 >
