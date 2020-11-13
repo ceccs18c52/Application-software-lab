@@ -1,7 +1,7 @@
 #1
 CREATE TABLE EMPLOYEE
 ( code CHAR(4),
-  name VARCHAR(20),
+  name VARCHAR(10),
   designation VARCHAR(30),
   dob DATE,
   salary  FLOAT);
