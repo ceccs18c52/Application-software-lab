@@ -23,5 +23,7 @@
  * Delete a tuple from the table employee
 
  <b>SOLUTION</b> : [SQL FILE](./Lab2/Lab2.sql)
+ <b>WITH O/P</b> : [SQL FILE](./Lab2/Output.sql)
+
 
 <br>
