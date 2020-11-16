@@ -22,7 +22,7 @@
  * Change the salary of employee code is e1.
  * Delete a tuple from the table employee
 
- <b>SOLUTION</b> : [SQL FILE](./Lab2/Lab2.sql)
+ <b>SOLUTION</b> : [SQL FILE](./Lab2/Lab2.sql) <br>
  <b>WITH O/P</b> : [SQL FILE](./Lab2/Output.sql)
 
 
