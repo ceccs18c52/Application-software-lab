@@ -1,4 +1,4 @@
-#a
+#1
 CREATE TABLE student (
 	sno INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(50) NOT NULL,
@@ -6,20 +6,26 @@ CREATE TABLE student (
     dept VARCHAR(20) NOT NULL
 );
 
-#b
+
+#2
 ALTER TABLE student ADD COLUMN age INT NOT NULL;
 
-#c
+
+#3
 ALTER TABLE student MODIFY COLUMN dept VARCHAR(10); 
 
-#d
+
+#4
 ALTER TABLE student DROP COLUMN marks;
 
-#e
+
+#5
 RENAME TABLE student TO students;
 
-#f
+
+#6
 TRUNCATE TABLE students;
 
-#g
+
+#7
 DROP TABLE students;
