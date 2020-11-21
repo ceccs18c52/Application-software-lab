@@ -10,7 +10,7 @@
  6. Delete all values from the table
  7. Delete the entire table
 
- <b>SOLUTION</b> : [SQL FILE](./Lab1.sql)
+ <b>SOLUTION</b> : [SQL FILE](./Lab1/Lab1.sql)
 
 <br>
 
