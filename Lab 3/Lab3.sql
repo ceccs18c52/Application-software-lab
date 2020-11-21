@@ -16,11 +16,12 @@ CREATE TABLE employdetails (
 
 INSERT INTO employee VALUES 
        ("e1", "Berlin", "Secretary", "1974-09-17", "50000"),
-       ("e2", "Roney", "Technician", "1980-03-24", "35000");
+       ("e2", "Roney", "Technician", "1980-03-24", "35000"),
+       ("e3", "Vicky", "Staff", "1987-10-23", "20000");
 
 INSERT INTO employdetails VALUES 
-       ("M", "Vicky", "27", "e2"),
-       ("M", "Robin", "56", "e3");
+       ("M", "Indian", "27", "e2"),
+       ("M", "Indian", "56", "e3");
 
 SELECT * FROM employee ;
 SELECT * FROM employdetails ;
