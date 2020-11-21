@@ -27,3 +27,12 @@
 
 
 <br>
+
+## Lab 3
+
+1.	Create table employdetails with empid references to the empid in employee table
+2.	Display the details of employee table where empid in employdetails table
+3.	Display the details of employee table where empid not in employdetails table
+
+<b>SOLUTION</b> : [SQL FILE](./Lab3/Lab3.sql) <br>
+<b>WITH O/P</b> : [SQL FILE](./Lab3/Output.sql) <br>
