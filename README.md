@@ -36,3 +36,21 @@
 
 <b>SOLUTION</b> : [SQL FILE](./Lab3/Lab3.sql) <br>
 <b>WITH O/P</b> : [SQL FILE](./Lab3/Output.sql) <br>
+
+## Lab 4
+
+Create and insert values for the following tables department and instructor(with constarints)
+1.	<b>Department table</b>  
+     Code(primary key), 
+     Title, 
+     Dept_name(unique), 
+     Dept_id, 
+     Salary(check –salary>2000)
+2.	<b>Instructor table</b>  
+     Name(not null), 
+     Code, 
+     Id(default)
+     
+<b>SOLUTION</b> : [SQL FILE](./Lab4/Lab4.sql) <br>
+<b>WITH O/P</b> : [SQL FILE](./Lab4/Output.sql)
+
