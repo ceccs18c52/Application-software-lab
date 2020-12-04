@@ -54,3 +54,12 @@ Create and insert values for the following tables department and instructor(with
 <b>SOLUTION</b> : [SQL FILE](./Lab4/Lab4.sql) <br>
 <b>WITH O/P</b> : [SQL FILE](./Lab4/Output.sql)
 
+## Lab 5
+
+1.	Create a table class. Fields are name and id
+2.	Insert values into the table
+3.	Display the table
+4.	Apply commit, save point and rollback commands
+
+<b>SOLUTION</b> : [SQL FILE](./Lab5/Lab5.sql) <br>
+<b>WITH O/P</b> : [SQL FILE](./Lab5/output.sql) <br>
