@@ -37,13 +37,13 @@ Query OK, 1 row affected (0.0009 sec)
 Query OK, 0 rows affected (0.0026 sec)
 
 -> SELECT * FROM Class;
-+----+---------+
-| id | name    |
-+----+---------+
-|  1 | LALAMAN |
-|  2 | SUSMA   |
-|  3 | BEEKER  |
-+----+---------+
++----+--------+
+| id | name   |
++----+--------+
+|  1 | DAVID  |
+|  2 | LUCIE  |
+|  3 | RICKIE |
++----+--------+
 3 rows in set (0.0006 sec)
 
  -> INSERT INTO Class (`name`) VALUES ("NEWMAN");
@@ -57,14 +57,14 @@ Query OK, 0 rows affected (0.0005 sec)
 Query OK, 0 rows affected (0.0005 sec)
 
  -> SELECT * FROM Class;
-+----+---------+
-| id | name    |
-+----+---------+
-|  1 | LALAMAN |
-|  2 | SUSMA   |
-|  3 | BEEKER  |
-|  5 | NEWMAN  |
-+----+---------+
++----+--------+
+| id | name   |
++----+--------+
+|  1 | DAVID  |
+|  2 | LUCIE  |
+|  3 | RICKIE |
+|  5 | NEWMAN |
++----+--------+
 4 rows in set (0.0006 sec)
 
  -> INSERT INTO Class (`name`) VALUES ("EVILERA");
@@ -74,9 +74,9 @@ Query OK, 1 row affected (0.0062 sec)
 +----+---------+
 | id | name    |
 +----+---------+
-|  1 | LALAMAN |
-|  2 | SUSMA   |
-|  3 | BEEKER  |
+|  1 | DAVID   |
+|  2 | LUCIE   |
+|  3 | RICKIE  |
 |  5 | NEWMAN  |
 |  6 | EVILERA |
 +----+---------+
@@ -86,14 +86,14 @@ Query OK, 1 row affected (0.0062 sec)
 Query OK, 0 rows affected (0.0076 sec)
  
  -> SELECT * FROM Class;
-+----+---------+
-| id | name    |
-+----+---------+
-|  1 | LALAMAN |
-|  2 | SUSMA   |
-|  3 | BEEKER  |
-|  5 | NEWMAN  |
-+----+---------+
++----+--------+
+| id | name   |
++----+--------+
+|  1 | DAVID  |
+|  2 | LUCIE  |
+|  3 | RICKIE |
+|  5 | NEWMAN |
++----+--------+
 4 rows in set (0.0069 sec)
 
 -> COMMIT;
