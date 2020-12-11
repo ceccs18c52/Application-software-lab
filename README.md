@@ -63,3 +63,16 @@ Create and insert values for the following tables department and instructor(with
 
 <b>SOLUTION</b> : [SQL FILE](./Lab5/Lab5.sql) <br>
 <b>WITH O/P</b> : [SQL FILE](./Lab5/output.sql) <br>
+
+## Lab 6
+
+<b>Creation of Views and Assertions</b>
+1. Create a table store. Fields are order no, code, item, quantity, price, discount, mrp
+2. Insert values into the table
+3. Display the table
+4. Create a view with item_name and quantity for the above table
+5. Write a query to check whether any changes made to present table is reflected in view.
+6. Write a query to delete a view
+
+<b>SOLUTION</b> : [SQL FILE](./Lab6/Lab6.sql) <br>
+<b>WITH O/P</b> : [SQL FILE](./Lab6/output.sql) <br>
