@@ -76,3 +76,15 @@ Create and insert values for the following tables department and instructor(with
 
 <b>SOLUTION</b> : [SQL FILE](./Lab6/Lab6.sql) <br>
 <b>WITH O/P</b> : [SQL FILE](./Lab6/output.sql) <br>
+
+## Lab 7
+
+<b>Implementation of Build in functions in RDBMS</b>
+1.	Create a table store. Fields are order no, code, item, quantity, price, discount, mrp
+2.	Insert values into the table
+3.	Display the table
+4.	Write an SQL query to display the reminder, if the amount of an each item in store is divided by 9 (use built-in function  mod()). 
+5.	Write SQL query to display the amount in store and its square (use power() function).
+6.	Write SQL query to divide the amount in stock of each item by 7 in store table and display the result round to the nearest integer (use round() function).
+<b>SOLUTION</b> : [SQL FILE](./Lab7/Lab7.sql) <br>
+<b>WITH O/P</b> : [SQL FILE](./Lab7/output.sql) <br>
