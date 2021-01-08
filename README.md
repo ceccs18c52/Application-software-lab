@@ -89,3 +89,17 @@ Create and insert values for the following tables department and instructor(with
 
 <b>SOLUTION</b> : [SQL FILE](./Lab7/Lab7.sql) <br>
 <b>WITH O/P</b> : [SQL FILE](./Lab7/output.sql) <br>
+
+## Lab 8
+
+<b>Implementation of various aggregate functions in SQL</b>
+1. Create a table Employee with following specifications : Code, name, DOB, designation, salary
+2. Insert values into the table
+3. Display sum of salaries from the table employee where designation is clerk.
+4. Describe the maximum salary value from the table employee.
+5. Display average salary of employees
+6. Describe the minimum salary value from the table
+7. Display the total number of employees.
+
+<b>SOLUTION</b> : [SQL FILE](./Lab8/Lab8.sql) <br>
+<b>WITH O/P</b> : [SQL FILE](./Lab8/Output.sql) <br>
