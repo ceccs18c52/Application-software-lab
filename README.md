@@ -103,3 +103,14 @@ Create and insert values for the following tables department and instructor(with
 
 <b>SOLUTION</b> : [SQL FILE](./Lab8/Lab8.sql) <br>
 <b>WITH O/P</b> : [SQL FILE](./Lab8/Output.sql) <br>
+
+## Lab 9
+
+<b>Order by and Group by clause</b>
+1. Create table employee with fields Code , name , dob , designation , salary.
+2. Display code, name, and designation in descending order of the name.
+3. Create table deposit with fields baccno , branch_name , amount.
+4.	Give branch name and details of deposit table.
+
+<b>SOLUTION</b> : [SQL FILE](./Lab9/Lab9.sql) <br>
+<b>WITH O/P</b> : [SQL FILE](./Lab9/Output.sql) <br>
